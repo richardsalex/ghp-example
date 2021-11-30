@@ -1,0 +1,21 @@
+#headline {
+	text-align: center;
+	font-weight: bold;
+}
+
+.container {
+	border-left: 1px solid gray;
+	border-right: 1px solid gray;
+}
+
+.row {
+	padding: 8px 0px 8px 0px;
+}
+
+a {
+	color: #F76900!important;
+}
+
+a:hover {
+	color: #ffb780!important;
+}
