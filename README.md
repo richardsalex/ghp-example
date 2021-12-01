@@ -36,7 +36,7 @@ Go check out the instructions you've been given and video I recorded for you, bo
 
 3. Click the green `Commit changes` button.
 
-### Upload an individual file or replace an existing file with a new version.
+### Upload an individual file _OR_ replace an existing file with a new version.
 1. From the main repository page, click the `Add file` button, selecting `Upload files` from the drop-down menu.
 
 2. Drag and drop the file from your computer where indicated. Or: follow the `choose your files` link and navigate to the file you want to select.
