@@ -16,7 +16,7 @@ Think of this repository like a folder on your computer. In JNL 221, you're freq
 └── README.md (the file you're reading)
 ```
 
-### Things to keep in mind:
+## Things to keep in mind:
 * __File names matter.__ Even a slight difference will throw things off. `index.html` is different than `index(3).html` and `INDex.HTML`
 
 * __Paths to files matter.__ If I want to show the image `Armorysquaresyr.jpg` in my HTML file, I have to point toward `images/Armorysquaresyr.jpg` because it's located inside a folder. (More on [file paths](https://www.w3schools.com/html/html_filepaths.asp).)
@@ -25,22 +25,25 @@ Think of this repository like a folder on your computer. In JNL 221, you're freq
 
 * __Changes may not be instantaneously reflected online.__ If I'm getting a 404 page when I go to the above URL, I can try visiting the pages individually: [https://richardsalex.github.io/pages-example/index.html](https://richardsalex.github.io/pages-example/index.html) or [https://richardsalex.github.io/pages-example/other.html](https://richardsalex.github.io/pages-example/other.html). If it's not working, see "__File names matter__" or "__Paths to files matter__" above.
 
-### I want to:
-#### Upload all my files to a repository. 
+## I want to:
+### Create a new repository from scratch.
+Go check out the instructions you've been given and video I recorded for you, both posted on Blackboard. Alternatively, read [Github's own documentation](https://docs.github.com/en/get-started/quickstart/create-a-repo) on the subject.
+
+### Upload all my files to a repository. 
 1. From the main repository page, click the `Add file` button, selecting `Upload files` from the drop-down menu.
 
 2. Drag and drop the _contents_ of the project folder on your computer where indicated. __Don't drag the folder itself, but the files and folders inside of it.__
 
 3. Click the green `Commit changes` button.
 
-#### Upload an individual file or replace an existing file with a new version.
+### Upload an individual file or replace an existing file with a new version.
 1. From the main repository page, click the `Add file` button, selecting `Upload files` from the drop-down menu.
 
 2. Drag and drop the file from your computer where indicated. Or: follow the `choose your files` link and navigate to the file you want to select.
 
 3. Click the green `Commit changes` button.
 
-#### Edit a file here.
+### Edit a file here.
 1. From the main repository page, click on the name of the file you want to edit.
 
 2. Click the pencil icon with the `Edit this file` tooltip. 
@@ -49,14 +52,14 @@ Think of this repository like a folder on your computer. In JNL 221, you're freq
 
 4. Click the green `Commit changes` button.
 
-#### Remove a file.
+### Remove a file.
 1. From the main repository page, click on the name of the file you want to remove.
 
 2. Click the trashcan icon with the `Delete this file` tooltip.
 
 3. Click the green `Commit changes` button.
 
-#### Publish my repository to Github Pages.
+### Publish my repository to Github Pages.
 1. From the main repository page, click `Settings`, which has a gear icon next to it.
 
 2. On the left rail, click `Pages`.
