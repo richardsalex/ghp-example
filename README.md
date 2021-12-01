@@ -11,6 +11,7 @@ Think of this repository like a folder on your computer. In JNL 221, you're freq
 │   ├── Armorysquaresyr.jpg
 │   ├── Destiny_USA.png
 │   └── Syrcityhall2.jpg
+├── main.css
 ├── index.html
 ├── other.html
 └── README.md (the file you're reading)
